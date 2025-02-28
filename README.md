@@ -1,15 +1,9 @@
-# 👋 Hello, I'm Sumana Madhireddy!
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumana-Madhireddy&color=blue&style=flat)
 
 ## 🚀 About Me
-
-🌟 **Software Engineer | Full Stack Developer**
-
-🎓 **Graduated with a Master's in Computer Science** from **University at Buffalo**  
+💻 **Software Engineer | Full Stack Developer**  
 🏢 **Software Development Engineer** @ **RedPrint**  
-🌱 **Learning:** Cloud Computing and Performance Optimization  
-⚡ **Fun Fact:** I love coding, fitness, and exploring new tech!  
+🎓 **Master's in Computer Science** from **University at Buffalo**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumana-madhireddy/)
