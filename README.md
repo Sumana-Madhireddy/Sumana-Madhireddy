@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumana-Madhireddy&color=blue&style=flat)
 
----
-
 ## 🚀 About Me
 
 🌟 **Software Engineer | Full Stack Developer**
@@ -13,7 +11,10 @@
 🌱 **Learning:** Cloud Computing and Performance Optimization  
 ⚡ **Fun Fact:** I love coding, fitness, and exploring new tech!  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumana-madhireddy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumana-Madhireddy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sumana-madhireddy.github.io/Portfolio/)
 
 ## 🛠️ Tech Stack
 
@@ -41,8 +42,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -54,20 +53,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumana-Madhireddy&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
-
 ## 📌 Featured Projects
 
 🔹 [**Solenne E-commerce Website**](https://github.com/Sumana-Madhireddy/solenne-ecommerce) - A full-stack e-commerce platform with Stripe integration.  
 🔹 [**Anime Film Management System**](https://github.com/Sumana-Madhireddy/anime-db) - A high-performance anime film DBMS.  
 🔹 [**Todo application**](https://github.com/Sumana-Madhireddy/TodoApplication) - Todo application built using Spring Boot, Thymeleaf, and JPA for task management.
-
----
-
-## 🌎 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumana-madhireddy/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumana-Madhireddy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sumana-madhireddy.github.io/Portfolio/)
-
-🚀 **Let's build something awesome together!**
