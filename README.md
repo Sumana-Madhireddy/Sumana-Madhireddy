@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 💻 **Software Engineer | Full Stack Developer**  
-🏢 **Software Development Engineer** @ **RedPrint**  
+🏢 **Software Development Engineer** @ **Benderson Development**  
 🎓 **Master's in Computer Science** from **University at Buffalo**  
 
 ## 🌐 Socials:
